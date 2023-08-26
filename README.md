@@ -1,5 +1,5 @@
 # Steps to conduct a lexicon-based Sentiment Analysis with R and Visualize the result using Tableau Software”
-    1. Loading packages and the data in R statistical software
+1. Loading packages and the data in R statistical software
     2. Preprocessing
     3. Sentiment Analysis
     4. Saving the output to the CSV file called “l_nrc_IELTS.csv”. In the end, I saved it as an Excel file and renamed it “words+sentiment”.
